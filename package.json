@@ -1,0 +1,8 @@
+{
+  "description": "my-project",
+  "repository": "local",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@vaadin/flow-deps": "./target/frontend/deps"
+  }
+}

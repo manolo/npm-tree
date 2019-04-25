@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@vaadin/vaadin-grid": "5.4.0-alpha3"
+  },
+  "license": "UNLICENSED",
+  "name": "vaadin-grid-5.4.0-alpha3"
+}

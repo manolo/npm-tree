@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0",
+    "vaadin-grid-5.3.3": "./vaadin-grid-5.3.3",
+    "vaadin-grid-5.4.0-alpha3": "./vaadin-grid-5.4.0-alpha3",
+    "webpack": "latest",
+    "webpack-cli": "latest",
+    "webpack-dev-server": "latest",
+    "webpack-babel-multi-target-plugin": "latest",
+    "copy-webpack-plugin": "latest"
+  },
+  "files": [
+    "*.js"
+  ],
+  "license": "Apache-2.0",
+  "name": "@vaadin/flow-deps"
+}
